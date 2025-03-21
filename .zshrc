@@ -8,6 +8,7 @@ fi
 #Export the path to the oh-my-zsh directory
 export ZSH="$HOME/.oh-my-zsh"
 
+
 #Set the ZSH theme to "arch"
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
